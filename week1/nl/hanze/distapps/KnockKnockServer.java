@@ -7,7 +7,11 @@ public class KnockKnockServer {
 	ServerSocket serverSocket = null;
 	Socket clientSocket = null;
 	KnockKnockProtocol kkp = null;
-	
+
+	public static void main(String[] args) throws IOException {
+		new KnockKnockServer();
+	}
+
 	public KnockKnockServer() {
 		makeListener();
 		kkp = new KnockKnockProtocol();
@@ -59,9 +63,4 @@ public class KnockKnockServer {
             System.exit(1);
         }
 	}
-	
-	
-    public static void main(String[] args) throws IOException {
-    	new KnockKnockServer();
-    }
 }
