@@ -7,7 +7,11 @@ public class KnockKnockClient {
 	Socket kkSocket = null;
 	PrintWriter out = null;
 	BufferedReader in = null;
-	
+
+	public static void main(String[] args) throws IOException {
+		new KnockKnockClient();
+	}
+
 	public KnockKnockClient() {
 		makeConnection();
 		
@@ -53,12 +57,5 @@ public class KnockKnockClient {
 		in.close();
 		stdIn.close();
 		kkSocket.close();
-	}
-	
-	
-	
-	public static void main(String[] args) throws IOException {
-		new KnockKnockClient();
-
 	}
 }
