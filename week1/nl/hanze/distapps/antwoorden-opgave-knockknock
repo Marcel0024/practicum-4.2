@@ -1,0 +1,16 @@
+1. Geef van dit protocol eenzelfde beschrijving als hierboven gegeven voor TCP.
+
+Dit zijn de states waarin het knock knock protocol wordt uitgevoerd.
+
+    - Server stuurt een request naar de client (knock knock)
+    - Server wacht op een response
+    - Client stuurt response (whos there)
+    - Server stuurt request (clue, turnip)
+    - Server wacht op response
+    - Client stuurt response (turnip who)
+    - Server stuurt response (joke)
+    - Server wacht op response (another y/n)
+
+    IF client response yes -> start from top
+    IF client response no -> server ends connection
+
