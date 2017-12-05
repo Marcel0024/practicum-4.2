@@ -6,15 +6,16 @@ import java.io.*;
 public class KnockKnockServer {
 	ServerSocket serverSocket = null;
 	Socket clientSocket = null;
-	KnockKnockProtocol kkp = null;
-
+	//KnockKnockProtocol kkp = null;
+	TranslateProtocol kkp = null;
 	public static void main(String[] args) throws IOException {
 		new KnockKnockServer();
 	}
 
 	public KnockKnockServer() {
 		makeListener();
-		kkp = new KnockKnockProtocol();
+		//kkp = new KnockKnockProtocol();
+		kkp = new TranslateProtocol();
 
         try {
             clientSocket = serverSocket.accept();

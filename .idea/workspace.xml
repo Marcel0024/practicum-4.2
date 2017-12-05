@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="2a31251e-f4b8-43c6-8975-fcaacdd641b8" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/antwoorden-homegrownRPCbasic" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/generic/NameClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/generic/NameServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/generic/Skel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/generic/Stub.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/Hello.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloServer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloSkel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloStub.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/week1/nl/hanze/distapps/KnockKnockClient.java" afterPath="$PROJECT_DIR$/week1-knockknock/nl/hanze/distapps/KnockKnockClient.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/week1/nl/hanze/distapps/KnockKnockProtocol.java" afterPath="$PROJECT_DIR$/week1-knockknock/nl/hanze/distapps/KnockKnockProtocol.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/week1/nl/hanze/distapps/KnockKnockServer.java" afterPath="$PROJECT_DIR$/week1-knockknock/nl/hanze/distapps/KnockKnockServer.java" />
@@ -25,8 +35,8 @@
       <file leaf-file-name="NameServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/generic/NameServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-287">
-              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state relative-caret-position="594">
+              <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -55,8 +65,8 @@
       <file leaf-file-name="antwoorden-homegrownRPCbasic" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/antwoorden-homegrownRPCbasic">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloStub.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -75,7 +85,7 @@
       <file leaf-file-name="HelloSkel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloSkel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="72">
               <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding />
             </state>
@@ -100,6 +110,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Opdracht_RMI/RMIHelloStub/nl/hanze/web/rmi/Hello.java" />
         <option value="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/antwoorden-homegrownRPCbasic" />
+        <option value="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloStub.java" />
       </list>
     </option>
   </component>
@@ -130,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -188,8 +198,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -420,6 +431,7 @@
       <workItem from="1511432361298" duration="1997000" />
       <workItem from="1511434381220" duration="3430000" />
       <workItem from="1512295725469" duration="2526000" />
+      <workItem from="1512472696630" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1511433533164</created>
@@ -432,14 +444,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7953000" />
+    <option name="totallyTimeSpent" value="7971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="127" y="27" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -450,7 +462,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18515563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18834797" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980047" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -462,6 +474,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -510,6 +523,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/generic/NameServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/antwoorden-homegrownRPCbasic">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloSkel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloStub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week1-knockknock/nl/hanze/distapps/KnockKnockClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -542,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -570,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,50 +657,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/generic/NameClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCFull/nl/hanze/web/homegrownrpc/hello/HelloClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCFull/nl/hanze/web/homegrownrpc/hello/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/generic/NameClient.java" />
+    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloClient.java" />
+    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/Hello.java" />
+    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCFull/nl/hanze/web/homegrownrpc/hello/HelloClient.java" />
+    <entry file="file://$PROJECT_DIR$/week1-rmi/HomeGrownRPCFull/nl/hanze/web/homegrownrpc/hello/Hello.java" />
     <entry file="file://$PROJECT_DIR$/week1-knockknock/nl/hanze/distapps/KnockKnockProtocol.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1548">
@@ -650,19 +673,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opdracht_RMI/RMIHelloStub/nl/hanze/web/rmi/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Opdracht_RMI/RMIHelloStub/nl/hanze/web/rmi/Hello.java" />
     <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,8 +699,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/generic/NameServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-287">
-          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        <state relative-caret-position="594">
+          <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -700,15 +715,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/antwoorden-homegrownRPCbasic">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="324">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloSkel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="72">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
@@ -717,7 +732,7 @@
     <entry file="file://$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloStub.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding />
         </state>
       </provider>
