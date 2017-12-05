@@ -1,0 +1,23 @@
+1. Hoeveel JVM processen zijn er nu? Licht het aantal toe.
+
+    Slechts 1 want er wordt geen netwerkverbinding opgezet richting een andere applicatie. De classes
+    runnen in deze ene applicatie.
+
+2. Licht de werking van de applicatie toe door de functie
+van de klassen en interfaces in dit project uit te leggen.
+
+    NameServer zet een poort open waarop HelloServer gebruik kan maken.
+    HelloServer maakt een verbinding met dezelfde poort waardoor het kan communiceren met NameServer
+    HelloClient kan nu wachten op een reactie van NameClient
+    NameClient ziet een active verbinding en stuurt hello world!
+    HelloClient ontvangt hello world en stuurt Hello chris terug.
+
+
+3. Er wordt een bepaald protocol tussen de HelloStub en de
+HelloSkel gebruikt. Geef een beschrijving van dit protocol.
+
+
+
+4. Leg uit waarom Base64 de- en encoding wordt gebruikt bij het
+versturen van Strings in het protocol van de vorige vraag.
+
