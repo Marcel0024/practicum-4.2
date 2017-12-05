@@ -16,8 +16,13 @@ van de klassen en interfaces in dit project uit te leggen.
 3. Er wordt een bepaald protocol tussen de HelloStub en de
 HelloSkel gebruikt. Geef een beschrijving van dit protocol.
 
+    HelloStub spreekt HelloSkel aan. HelloStub heeft alle sayHello functions.
+    HelloSkel heeft alle listen functions.
+    HelloStub init het contact en HelloSkel geeft antwoord.
 
 
 4. Leg uit waarom Base64 de- en encoding wordt gebruikt bij het
 versturen van Strings in het protocol van de vorige vraag.
 
+    Om ervoor te zorgen dat tekst altijd goed aankomt. Met ASCII is er de kans dat tekst
+    corrupt raakt tijdens het verzenden. Met Base64 is die kans heel klein.
