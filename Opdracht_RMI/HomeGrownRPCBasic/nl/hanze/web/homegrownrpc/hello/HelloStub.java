@@ -50,14 +50,20 @@ public class HelloStub implements Hello, Stub {
      * Week 2, opgave 2e.
      */
     public String sayHello(int age) throws Exception {
-        throw new UnsupportedOperationException("Not supported yet.");
+        throw new UnsupportedOperationException(
+                "Wrong age input"
+        );
     }
 
     public String sayHello(String name, int age) throws Exception {
-        throw new UnsupportedOperationException("Not supported yet.");
+        throw new UnsupportedOperationException(
+                "Wrong name or age input"
+        );
     }
 
     public int ageNextYear(int age) throws Exception {
-        throw new UnsupportedOperationException("Not supported yet.");
+        throw new UnsupportedOperationException(
+                "Wrong age input"
+        );
     }
 }

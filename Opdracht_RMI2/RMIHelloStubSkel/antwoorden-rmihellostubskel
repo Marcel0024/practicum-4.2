@@ -1,0 +1,5 @@
+5. Wat zijn de overeenkomsten en verschillen tussen dit RMI voorbeeld
+    en het eerdere HomegrownRPCBasic voorbeeld?
+
+    De applicatie heeft nu niet meer de logica lokaal in de applicatie. Er word nu gebruik gemaakt
+    van SOA door via een andere route logica op te halen. Dit lijkt op een microservice.

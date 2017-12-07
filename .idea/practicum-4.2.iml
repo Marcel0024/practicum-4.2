@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Opdracht_RMI/HomeGrownRPCFull" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Opdracht_RMI/RMIHelloStub" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Opdracht_RMI/RMIHelloStubSkel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Opdracht_RMI2/RMIHelloStubSkel" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

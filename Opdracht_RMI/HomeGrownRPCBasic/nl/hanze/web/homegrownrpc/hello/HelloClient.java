@@ -11,8 +11,8 @@ public class HelloClient {
         System.out.println(hello.sayHello("Chris"));
         
         
-        //System.out.println(hello.sayHello(18));
-        //System.out.println(hello.sayHello("Chris", 18));
-        //System.out.println(hello.ageNextYear(18));
+        System.out.println(hello.sayHello(18));
+        System.out.println(hello.sayHello("Chris", 18));
+        System.out.println(hello.ageNextYear(18));
     }
 }

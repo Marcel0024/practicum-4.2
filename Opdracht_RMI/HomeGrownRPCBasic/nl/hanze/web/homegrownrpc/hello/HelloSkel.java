@@ -53,7 +53,11 @@ public class HelloSkel implements Skel<Hello> {
             }
 
             if (strMethod.startsWith("sayHello#1#int")) {
-
+                int temp=Integer.parseInt(strMethod.substring("sayHello#1#int".length()+1);
+                String value=Base64.getEncoder().encodeToString(hello.sayHello(temp).getBytes());
+                oswHelloSkel.write("java.lang.int#"+value+"\n");
+                oswHelloSkel.flush();
+                continue;
             }
 
             if (strMethod.startsWith("sayHello#2#java.lang.String#int")) {
