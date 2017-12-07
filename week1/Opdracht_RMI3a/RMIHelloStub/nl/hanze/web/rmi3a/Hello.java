@@ -1,4 +1,4 @@
-package nl.hanze.web.rmi;
+package nl.hanze.web.rmi3a;
 
 import java.rmi.*;
 

@@ -1,4 +1,4 @@
-package nl.hanze.web.rmi;
+package nl.hanze.web.rmi3a;
 
 import java.rmi.*;
 
@@ -11,5 +11,5 @@ public class HelloClient {
         System.out.println(hello.sayHello(18));
         System.out.println(hello.sayHello("Chris", 18));
         System.out.println(hello.ageNextYear(18));
-    } 
+    }
 }

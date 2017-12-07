@@ -1,4 +1,4 @@
-package nl.hanze.web.rmi;
+package nl.hanze.web.rmi3a;
 
 import java.rmi.*;
 import java.rmi.server.*;
@@ -8,7 +8,6 @@ public class HelloImpl extends UnicastRemoteObject implements Hello {
     public HelloImpl() throws java.rmi.RemoteException {
         super();
     }
-
 
     public String sayHello() {
         return "Hello world!";
@@ -30,3 +29,4 @@ public class HelloImpl extends UnicastRemoteObject implements Hello {
         return ++age;
     }
 }
+
