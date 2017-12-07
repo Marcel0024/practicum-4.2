@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a31251e-f4b8-43c6-8975-fcaacdd641b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Opdracht_RMI2/RMIHelloStubSkel/antwoorden-rmihellostubskel" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/practicum-4.2.iml" afterPath="$PROJECT_DIR$/.idea/practicum-4.2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloClient.java" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloSkel.java" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloSkel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloStub.java" afterPath="$PROJECT_DIR$/Opdracht_RMI/HomeGrownRPCBasic/nl/hanze/web/homegrownrpc/hello/HelloStub.java" />
-    </list>
+    <list default="true" id="2a31251e-f4b8-43c6-8975-fcaacdd641b8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,28 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="antwoorden-rmihellostubskel" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Opdracht_RMI2/RMIHelloStubSkel/antwoorden-rmihellostubskel">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="88" lean-forward="false" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Opdracht_RMI2/RMIHelloStubSkel/nl/hanze/web/rmi/HelloServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,50 +70,6 @@
             <path>
               <item name="practicum-4.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="practicum-4.2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicum-4.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicum-4.2" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdracht_RMI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicum-4.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicum-4.2" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdracht_RMI" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeGrownRPCBasic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicum-4.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicum-4.2" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdracht_RMI" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeGrownRPCBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="homegrownrpc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicum-4.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicum-4.2" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdracht_RMI" type="462c0819:PsiDirectoryNode" />
-              <item name="HomeGrownRPCBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="homegrownrpc" type="462c0819:PsiDirectoryNode" />
-              <item name="hello" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicum-4.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicum-4.2" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdracht_RMI2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicum-4.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicum-4.2" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdracht_RMI2" type="462c0819:PsiDirectoryNode" />
-              <item name="RMIHelloStubSkel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practicum-4.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practicum-4.2" type="462c0819:PsiDirectoryNode" />
-              <item name="Opdracht_RMI2" type="462c0819:PsiDirectoryNode" />
-              <item name="RMIHelloStubSkel" type="462c0819:PsiDirectoryNode" />
-              <item name="rmi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -380,7 +308,7 @@
       <workItem from="1511434381220" duration="3430000" />
       <workItem from="1512295725469" duration="2526000" />
       <workItem from="1512472696630" duration="3227000" />
-      <workItem from="1512639630108" duration="4167000" />
+      <workItem from="1512639630108" duration="4583000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1511433533164</created>
@@ -393,11 +321,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15347000" />
+    <option name="totallyTimeSpent" value="15763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="127" y="27" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -411,7 +338,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1915403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1915403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980047" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -697,18 +624,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opdracht_RMI2/RMIHelloStubSkel/nl/hanze/web/rmi/HelloServer.java">
+    <entry file="file://$PROJECT_DIR$/Opdracht_RMI2/RMIHelloStubSkel/antwoorden-rmihellostubskel">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="72">
+          <caret line="4" column="88" lean-forward="true" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Opdracht_RMI2/RMIHelloStubSkel/antwoorden-rmihellostubskel">
+    <entry file="file://$PROJECT_DIR$/Opdracht_RMI2/RMIHelloStubSkel/nl/hanze/web/rmi/HelloServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="88" lean-forward="false" selection-start-line="4" selection-start-column="88" selection-end-line="4" selection-end-column="88" />
+        <state relative-caret-position="108">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           <folding />
         </state>
       </provider>
