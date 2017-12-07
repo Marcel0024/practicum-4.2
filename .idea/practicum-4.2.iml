@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="" />
+        <datasource-mapping />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/week2/JPAStudentExample/resources/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/production/output" />
     <output-test url="file://$MODULE_DIR$/production/test/practicum-4.2" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/week1-knockknock" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Opdracht_RMI/HomeGrownRPCBasic" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Opdracht_RMI/HomeGrownRPCFull" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Opdracht_RMI/RMIHelloStub" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Opdracht_RMI/RMIHelloStubSkel" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Opdracht_RMI2/RMIHelloStubSkel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week2/JPAStudentExample/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
