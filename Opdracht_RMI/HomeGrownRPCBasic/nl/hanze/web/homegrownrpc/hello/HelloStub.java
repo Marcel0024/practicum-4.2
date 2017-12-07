@@ -16,7 +16,7 @@ public class HelloStub implements Hello, Stub {
     private int port;
 	
     public void setSkelLocation(String strIP, int port) throws Exception {
-        this.strIP=svtrIP;
+        this.strIP=strIP;
         this.port=port;
 
     }
