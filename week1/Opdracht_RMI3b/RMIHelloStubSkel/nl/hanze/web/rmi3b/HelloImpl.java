@@ -9,7 +9,6 @@ public class HelloImpl extends UnicastRemoteObject implements Hello {
         super();
     }
 
-
     public String sayHello() {
         return "Hello world!";
     }

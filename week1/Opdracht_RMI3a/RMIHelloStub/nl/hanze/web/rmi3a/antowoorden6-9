@@ -1,0 +1,12 @@
+6.  ObjectInputStream en ObjectOuputStream, kan je direct primitieve types sturen.
+    Zonder all de andere stappen te hoeven zoen (serialize, convert ,deserialize etc).
+    Dit maakt de code iets netter.
+
+7.  Met deze stream kan je complexe objects sturen. Dit worden vertaalt naar bytes. Die kunnen weer aa n de ander kant gelezen worden.
+
+8.  OutputStreamWriter.Write() door klasse en package naam mee te geven samen met methode naam en eventueel ook parameters.
+
+9.  Nu worden de berichten uitgepakt en daarna de methode aangeroepen. Met deze techniek kunnen de methoden direct worden aangeroepen.
+
+
+
